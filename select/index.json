@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "アジサイ",
+  "base_track": "恋のすべて",
   "base_artist": "サイダーガール",
-  "createdAt": "2026-02-25T05:18:21.878148Z",
+  "createdAt": "2026-02-25T08:05:38.734707Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "アジサイ (Remix)",
-      "artist": "LINDBERG",
-      "has_synced": true,
-      "path": "select/01_アジサイ_(Remix)_LINDBERG.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "アジサイ",
+      "title": "恋のすべて",
       "artist": "サイダーガール",
       "has_synced": false,
-      "path": "select/pl_01_アジサイ_サイダーガール.txt"
+      "path": "select/pl_01_恋のすべて_サイダーガール.txt"
     }
   ]
 }
